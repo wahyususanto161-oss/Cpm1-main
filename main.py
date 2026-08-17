@@ -47,7 +47,7 @@ from aiogram.types import (
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "").strip()
 if not BOT_TOKEN:
-    raise RuntimeError("BOT_TOKEN belum diatur pada environment.")
+    raise RuntimeError("8991051291:AAEWtjtdhGeEl8iClIrvXC1Au95bg1csjlA")
 OWNER_ID  = 8700382637
 
 RATE_LIMIT_ACTIONS = 10

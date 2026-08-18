@@ -18,7 +18,7 @@ from aiogram.types import CallbackQuery, InlineKeyboardButton, InlineKeyboardMar
 # CONFIG
 # ============================================================
 # Set BOT_TOKEN in your environment before running.
-BOT_TOKEN = "MASUKKAN_BOT_TOKEN_BARU_DARI_BOTFATHER_DI_SINI"
+BOT_TOKEN = "8991051291:AAEWtjtdhGeEl8iClIrvXC1Au95bg1csjlA" 
 FIREBASE_API_KEY = os.environ.get(
     "FIREBASE_API_KEY",
     "AIzaSyAe_aOVT1gSfmHKBrorFvX4fRwN5nODXVA",
